@@ -1,7 +1,7 @@
 {
-  "name": "egg-swagger-doc",
-  "version": "2.2.8",
-  "description": "swagger for egg",
+  "name": "egg-swagger-doc-ex",
+  "version": "1.0.0",
+  "description": "swagger for egg, this repo is forked from github.com/Ysj291823/egg-swagger-doc",
   "eggPlugin": {
     "name": "swaggerdoc"
   },
@@ -53,6 +53,6 @@
     "url": "https://github.com/Ysj291823/egg-swagger-doc/issues"
   },
   "homepage": "https://github.com/Ysj291823/egg-swagger-doc#readme",
-  "author": "yanshijie",
+  "author": "kivi",
   "license": "MIT"
 }
